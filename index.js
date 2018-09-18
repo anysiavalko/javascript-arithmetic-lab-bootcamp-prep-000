@@ -19,7 +19,7 @@ function inc(n) {
 function dec(n) {
   return --n
 }
-n ="86"
+n ="2"
 function makeInt(n) {
   return parseInt('n', 10)
 }
