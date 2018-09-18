@@ -19,9 +19,11 @@ function inc(n) {
 function dec(n) {
   return --n
 }
+n =86
 function makeInt(n) {
   return parseInt('n', 10)
 }
+n = 2.222
 function preserveDecimal(n) {
   return parseFloat('n')
 }
